@@ -11,7 +11,7 @@ type Idata = {
   description: string;
 };
 
-export default async function API_product_two() {
+export default async function product_two() {
   let apifetch: Idata[] = [];
 
   try {

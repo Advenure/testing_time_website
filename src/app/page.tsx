@@ -4,7 +4,7 @@ import Features from "./componentfeature/page";
 import Navbarthree from "./componentnavbar/headerthree/page";
 import BottomSection from "./componentpage/bottomsection/page";
 import HeroSection from "./componentpage/heroSection/page";
-import API_product_one from "./components_product/page";
+import Product_one from "./components_product/page";
 
 
 
@@ -19,7 +19,7 @@ export default function Home() {
    
 <Navbarthree/>
 <HeroSection/>
-<API_product_one/>
+<Product_one/>
 <Features/>
 <Cutlery/>
 <BottomSection/>
