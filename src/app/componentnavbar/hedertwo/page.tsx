@@ -49,7 +49,7 @@ export default function Navbartwo() {
           <div className="hidden md:flex space-x-6 items-center">
             <Link href="/" className="text-sm hover:underline">Home</Link>
             <Link href="/about" className="text-sm hover:underline">About</Link>
-            <Link href="/components_product/product_two" className="text-sm hover:underline">Listing</Link>
+            <Link href="/components-product/product_two" className="text-sm hover:underline">Listing</Link>
           </div>
 
           {/* Search & Icons */}
@@ -108,7 +108,7 @@ export default function Navbartwo() {
           <Link href="/" className="py-2 border-b flex items-center"><Home className='mr-2' /> Home</Link>
           <Link href="/about" className="py-2 border-b flex items-center"><Info className='mr-2' /> About</Link>
           <Link href="/contact" className="py-2 border-b flex items-center"><Contact className='mr-2' /> Contact</Link>
-          <Link href="/components_product/product_two" className="py-2 border-b flex items-center"><List className='mr-2' /> Listing</Link>
+          <Link href="/components-product/product_two" className="py-2 border-b flex items-center"><List className='mr-2' /> Listing</Link>
           <Link href="/shopping-cart" className="py-2 border-b flex items-center"><ShoppingCart className='mr-2' /> Cart</Link>
           <Link href="/profile" className="py-2 flex items-center"><User className='mr-2' /> Profile</Link>
         </div>

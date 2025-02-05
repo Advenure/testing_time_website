@@ -116,6 +116,7 @@ export default async function ProductDetail({ params }: { params: { id: string }
       </div>
 
       <h1 className="text-center text-3xl font-bold px-2">More Products</h1>
+      
  
     </div>
   );
