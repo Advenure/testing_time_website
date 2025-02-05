@@ -2,7 +2,7 @@
 import { client } from "@/sanity/lib/client";
 import Image from "next/image";
 import { urlFor } from "@/sanity/lib/image";
-import API_product_two from "@/app/components_API/product_two/page";
+import API_product_two from "@/app/components_product/product_two/page";
 
 export default async function ProductDetail({ params }: { params: { id: string } }) {
   const id = params.id; // ✅ No need to await here, `params.id` is already a string

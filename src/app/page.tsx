@@ -4,7 +4,7 @@ import Features from "./componentfeature/page";
 import Navbarthree from "./componentnavbar/headerthree/page";
 import BottomSection from "./componentpage/bottomsection/page";
 import HeroSection from "./componentpage/heroSection/page";
-import API_product_one from "./components_API/page";
+import API_product_one from "./components_product/page";
 
 
 
